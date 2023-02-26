@@ -1,0 +1,1 @@
+potrace -b pdf -t 40 -a 0.6 -r 500 mandel.bmp
